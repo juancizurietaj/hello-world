@@ -2,4 +2,6 @@ Hola esto es un mensaje.
 
 Este es mi primer fichero versionado con GIT.
 
-D:
+Este es un nuevo cambio
+
+:)
